@@ -1,7 +1,7 @@
 # Élection présidentielle française 2022
 
 ## Description
-Il s'agit d'un pipeline qui rassemble les differentes technologies: kafka, spark, elasticsearch et kibana afin d'analyser en temps réel les avis des Français concernant les élections présidentielles 2022.
+Il s'agit d'un pipeline qui rassemble les differentes technologies: kafka, spark, elasticsearch et kibana afin d'analyser en temps réel les avis des Français concernant les élections présidentielles 2022. Une vidéo explicative est aussi fournie.
 
 ## Documentation technique
 ### Comment installer le projet ?
